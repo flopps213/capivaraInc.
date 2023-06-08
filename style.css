@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body {
+    background-color: #c9a227;
+    text-align: center;
+}
+
+.header{
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.titulo{
+    font-size: 50px;
+}
+
+.sobre {
+     font-size: 30px;
+}
+.comprar {
+    display: flex;
+    justify-content: space-around;
+}
+
+#logoDaInpresa{
+    width: 400px;
+    height: 400px;
+    border-radius: 150px;
+}
+
+.itens img {
+    width: 200px;
+    height:200px;
+}
+
+.itens{
+    margin-right: 150px;
+}
+
+.lista {
+    display:flex;
+    list-style: none;
+  
+}
+.produtos{
+    display: flex;
+    justify-content: center;
+}
+section{
+margin-bottom: 50px;
+}
